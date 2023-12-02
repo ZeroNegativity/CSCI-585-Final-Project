@@ -16,4 +16,11 @@ Contained within the `Astana_Building_LoRa_training_code.ipynb` file is the meti
 
 📂 [Astana Building Dataset](https://drive.google.com/drive/folders/1toD3BJp-JZbgOOi-gj8akYIxMpDbQ3k6?usp=sharing)
 
+## Authors:
+
+- Ali Zhakiyev
+- Akylbek Maxutov
+- Angsar Aidarbek
+- Kuanysh Tokayev
+
 Feel free to explore, contribute, and elevate the project to new heights! Happy coding! 🌟
