@@ -14,7 +14,7 @@ Contained within the `Astana_Building_LoRa_training_code.ipynb` file is the meti
 
 ## Dataset Link:
 
-📂 [Astana Building Dataset](https://drive.google.com/drive/folders/1toD3BJp-JZbgOOi-gj8akYIxMpDbQ3k6?usp=sharing)
+📂 [Real Astana Building Dataset](https://drive.google.com/drive/folders/1toD3BJp-JZbgOOi-gj8akYIxMpDbQ3k6?usp=sharing)
 
 ## Authors:
 
