@@ -12,9 +12,15 @@ This project is an exploration of the capabilities of LoRa, aiming to design a c
 
 Contained within the `Astana_Building_LoRa_training_code.ipynb` file is the meticulously crafted code responsible for training the LoRa model, utilizing the state-of-the-art Kohya_ss package.
 
-## Dataset Link:
+## Dataset Links:
 
 📂 [Real Astana Building Dataset](https://drive.google.com/drive/folders/1toD3BJp-JZbgOOi-gj8akYIxMpDbQ3k6?usp=sharing)
+
+📂 [Generated Images Dataset for Questionnaire](https://drive.google.com/drive/folders/1W3bqaayaL16iKA9mQjOmX1EiG-A5xkbZ)
+
+## Questionnaire Link:
+
+📋 [Questionnaire](https://forms.gle/X7hAZmomHBf1m6TR6)
 
 ## Authors:
 
